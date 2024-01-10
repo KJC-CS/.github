@@ -1,41 +1,35 @@
 # KJC CS
 
-# C and Java Programming for Beginners
+# Computer Science for Beginners
 
-This GitHub organization is dedicated to teaching the basics of C and Java programming languages to all the learners out there. C and Java are two of the most popular and widely used programming languages in the world. They have many similarities and differences, and each one has its own advantages and disadvantages.
+This GitHub organization is dedicated to teaching the basics of Computer Science and programming to all the learners out there. Computer Science is the study of computation and its applications, and it covers topics such as algorithms, data structures, programming languages, software engineering, artificial intelligence, and more.
 
-## What is C?
+## Why Learn Computer Science?
 
-C is a low-level, compiled, general-purpose programming language that was developed in the 1970s by Dennis Ritchie at Bell Labs. C is one of the oldest and most influential programming languages, and it is the basis for many other languages, such as C++, Java, Python, and Perl. C is mainly used for system programming, such as operating systems, drivers, compilers, and embedded systems.
+Computer Science is a fascinating and rewarding field that can help you solve real-world problems using computers. By learning Computer Science, you can:
 
-## What is Java?
+- Develop your logical thinking and problem-solving skills
+- Create software applications and systems that can benefit society
+- Explore the limits and possibilities of computation
+- Discover new knowledge and innovations in computing
 
-Java is a high-level, interpreted, object-oriented programming language that was developed in the 1990s by James Gosling at Sun Microsystems. Java is one of the most popular and widely used programming languages in the world, and it is designed to run on any platform that supports the Java Virtual Machine (JVM). Java is mainly used for application programming, such as web, mobile, desktop, and enterprise applications.
+## How to Learn Computer Science?
 
-## C vs Java: A Comparison
+There are many ways to learn Computer Science, such as taking online courses, reading books, watching videos, joining communities, and doing projects. Here are some resources that can help you get started:
 
-Here are some of the main differences between C and Java:
+- [Best Computer Science Courses Online](https://www.coursera.org/browse/computer-science): A list of online courses from top universities and industry leaders that cover various aspects of Computer Science, such as programming, algorithms, data structures, software engineering, and more.
+- [860+ Free Online Programming & Computer Science Courses](https://www.freecodecamp.org/news/free-online-programming-cs-courses/): A list of free online courses that you can start right now, covering topics such as web development, data science, machine learning, and more.
+- [Computer Science Projects for Beginners and Experts](https://careerkarma.com/blog/computer-science-projects/): A list of project ideas that can help you practice and improve your Computer Science skills, such as creating a weather forecasting app, a hospital management system, a YouTube transcript summarizer, and more.
 
-- C is a procedural language, which means it follows a sequence of steps or instructions to perform a task. Java is an object-oriented language, which means it organizes data and behavior into classes and objects that interact with each other.
-- C is a compiled language, which means it converts the source code into an executable file that can run on a specific machine. Java is an interpreted language, which means it converts the source code into bytecode that can run on any machine that has the JVM.
-- C is a low-level language, which means it gives more control and access to the hardware and memory. Java is a high-level language, which means it abstracts away the details of the hardware and memory and provides more features and functionality.
-- C does not have built-in support for memory management, exception handling, generics, and concurrency. Java has built-in support for these features, which makes it easier and safer to write and run programs.
-- C does not have a standard library that provides common data structures and algorithms. Java has a standard library that provides a rich set of data structures and algorithms, such as arrays, lists, sets, maps, stacks, queues, sorting, searching, etc.
+## Computer Science Programs: Examples
 
-## C and Java Programs: Examples
+Here are some examples of simple Computer Science programs that demonstrate some of the basic concepts and syntax of programming languages. You can run these programs online using tools such as [Repl.it] or [CodePen].
 
-Here are some examples of simple C and Java programs that demonstrate some of the basic concepts and syntax of the languages.
+### Python Program: Hello World
 
-### C Program: Hello World
+This is a Python program that prints "Hello, World!" to the standard output. Python is a high-level, interpreted, general-purpose programming language that is widely used for data science, web development, scripting, and more.
 
-This is a C program that prints "Hello, World!" to the standard output.
-
-```c
-#include <stdio.h>
-
-int main()
-{
-    printf("Hello, World!\n");
-    return 0;
-}
-
+```python
+# This is a comment
+print("Hello, World!") # This is a print statement
+```
